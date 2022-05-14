@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/aKumoSolutions/Bash-Scripting/blob/master/img/hello_world.gif" align="center" style="width: 50%" />
 </div>
 <h1 align="center">Hi 👋, I'm santosh</h1>
 <h3 align="center">A passionate cybersecurity learner from Nepal</h3>
