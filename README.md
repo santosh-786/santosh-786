@@ -33,8 +33,6 @@
 <br/>  
 
 
-
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
@@ -80,3 +78,7 @@
 </div>  
 
 <br/>  
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-786&show_icons=true&locale=en" alt="santosh" /></p>
